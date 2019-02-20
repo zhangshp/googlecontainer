@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd 
+FROM k8s.gcr.io/etcd:3.2.24 
 MAINTAINER shaopengzhang12@gmail.com
