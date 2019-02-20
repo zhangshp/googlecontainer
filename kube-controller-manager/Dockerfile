@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager
+FROM k8s.gcr.io/kube-controller-manager:v1.13.3
 MAINTAINER shaopengzhang12@gmail.com
