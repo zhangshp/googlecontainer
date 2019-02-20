@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns
+FROM k8s.gcr.io/coredns:1.2.6
 MAINTAINER shaopengzhang12@gmail.com
